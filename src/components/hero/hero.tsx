@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="col-span-7 place-self-center">
                 <h1 className='text-white mb-4 text-4xl lg:text-6xl font-extrabold'>Olá, sou Thomas</h1>
                 <p className="text-[#ADB7BE] text-lg lg:text-xl">
-                    Bem-vindos ao meu PORTIFÓLIO!
+                    Bem-vindos ao meu portifólio!
                 </p>
             </div>
             <div className="col-span-5">
