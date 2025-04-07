@@ -48,11 +48,11 @@ const AboutSection = () => {
     });
   };
 
-  // Find the content for the active tab
   const activeTabContent = TAB_DATA.find((t) => t.id === tab)?.content;
 
+{/* ADICIONANDO IMAGEM MINHA*/}
   return (
-    <section className="text-white" id="about">
+    <section id="sobremim" className="text-white">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image
           src="/images/about-me.jpeg"
@@ -60,15 +60,20 @@ const AboutSection = () => {
           height={500}
           alt="Eu tocando guitarra"
         />
+        
+        {/* ME DESCREVENDO COMO PROGRMADOR */} 
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-white mb-4">Sobre mim</h2>
+          <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-600 bg-clip-text text-transparent">Sobre mim</h2>
           <p className="text-base lg:text-lg">
+
             Sou um programador iniciante, apaixonado por tecnologia e
             desenvolvimento de jogos. Atualmente estou aprendendo as mais
             importantes ferramentas de desenvolvimento web e de bases de dados.
-            Procur sempre aprender mai e aprimorar minhas habilidades com o
+            Procuro sempre aprender mais e aprimorar minhas habilidades com o
             intuito de aprimorar minhas hard skills e ser um bom trabalhador.
           </p>
+
+          {/* SEÇÕES DE EDUCAÇÃO, EXPERIÊNCIA E CERTIFICADOS */}
           <div className="flex flex-row justify-start mt-8">
             <TabButton
               selectTab={() => handleTabChange("Educação")}
@@ -90,7 +95,6 @@ const AboutSection = () => {
             </TabButton>
           </div>
           <div className="mt-8">
-            {/* Render the content of the active tab */}
             {activeTabContent}
           </div>
         </div>
