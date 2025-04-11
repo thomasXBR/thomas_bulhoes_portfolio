@@ -37,6 +37,14 @@ const projects = [
     techs: ["HTML", "CSS", "JavaScript", "Next", "Node", "React", "Tailwind"],
     url: "https://github.com/thomasXBR/portfolio",
   },
+  {
+    title: "Sistema Operacional com Python",
+    image: "/images/PyOS_logo.jpg",
+    description:
+      "Aplicação que simula um sistema operacional em Python.",
+    techs: ["Python", "Tkinter"],
+    url: "https://github.com/thomasXBR/pyOS",
+  },
 ];
 
 {/* ORGANIZA COMO FICA ESTRUTURADO O CÓDIGO */}
