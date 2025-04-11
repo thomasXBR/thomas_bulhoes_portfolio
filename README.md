@@ -1,3 +1,9 @@
+MEU README!
+
+Este projeto é o meu protfólio profissional com informações gerais sobre mim e sobre os meus projetos (a maioria com repositórios aqui no GitHub. Ele será atualizado a medida que novos projetos chegarão, aprenderei novas skills, me forme, me empregue e ganhe novos certificados. Usei o Next.js por conta de sua bilbioteca  de animações e usei o Tailwind por facilitar a escrita do código CSS deixando tudo em uma linha.
+________________________________________________________________________________________________________________________________________________________
+README DO NEXT.JS!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -35,3 +41,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 "# thomas_bulhoes_portfolio" 
+
+_____________________________________________________________________________________________________________________________________________________________________________________________
