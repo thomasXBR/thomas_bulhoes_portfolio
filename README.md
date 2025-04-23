@@ -1,6 +1,6 @@
 MEU README!
 
-Este projeto é o meu protfólio profissional com informações gerais sobre mim e sobre os meus projetos (a maioria com repositórios aqui no GitHub. Ele será atualizado a medida que novos projetos chegarão, aprenderei novas skills, me forme, me empregue e ganhe novos certificados. Usei o Next.js por conta de sua bilbioteca  de animações e usei o Tailwind por facilitar a escrita do código CSS deixando tudo em uma linha.
+Este projeto é o meu protfólio profissional com informações gerais sobre mim e sobre os meus projetos a maioria com repositórios aqui no GitHub. Ele será atualizado a medida que novos projetos chegarão, aprenderei novas skills, me forme, me empregue e ganhe novos certificados. Usei o Next.js por conta de sua bilbioteca  de animações e usei o Tailwind por facilitar a escrita do código CSS deixando tudo em uma linha.
 ________________________________________________________________________________________________________________________________________________________
 README DO NEXT.JS!
 
